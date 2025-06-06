@@ -1,3 +1,6 @@
+<h1 align="center">Hi! I'm Aditya!</h1>
+<h3 align="center">A passionate developer from Nepal! I like to do little bit of everything...</h3>
+
 
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/castironskilleto_o) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mirageaditya@gmail.com) 
